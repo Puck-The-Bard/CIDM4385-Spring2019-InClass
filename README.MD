@@ -12,3 +12,7 @@ git add -A  (adds everything to the git image)
 git commit -m "A comment about what you did"
 
 git push -u origin master (pushes any changes to github)
+
+
+
+
