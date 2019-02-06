@@ -15,4 +15,8 @@ git push -u origin master (pushes any changes to github)
 
 
 
+JSX
+looks like html but doesn't get so convoluted when you make complex websites
+
+
 
